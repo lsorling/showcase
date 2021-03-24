@@ -1,2 +1,2 @@
 # showcase
- pythonthinker showcase
+ PythonThinker4 showcase
